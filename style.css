@@ -51,6 +51,7 @@ button{
     color: blanchedalmond;
     font-size: 2vw;
     font-family: fontulMeu;
+    padding: 0;
 }
 #sus{
     display: flex;
