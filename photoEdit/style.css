@@ -1,0 +1,33 @@
+body{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+
+#poza{
+    position: absolute;
+    display: inline-block;
+    left: 17vw;
+    display: none;
+}
+
+label{
+    border: 1px black solid;
+    padding: 0.3em;
+
+}
+
+
+
+#zonaUpload{
+    position: relative;
+    margin-top: 7vw;
+    width: 40vw;
+    height: 30vw;
+    border: 3px black dashed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
